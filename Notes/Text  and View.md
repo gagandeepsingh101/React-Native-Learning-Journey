@@ -1,4 +1,4 @@
-### **Module 1: View , Text and ScrollView Components**
+### **Topic 1: View , Text and ScrollView Components**
 
 # **View Components**
 1.  View is basic building block or user interface. 
@@ -12,3 +12,6 @@
 2.  Text Componenent can have multiple sibling , children or zero
 3.  Text provides styling , flex box and touch handling.
 
+# **ScrollView Components**
+1.  ScrollView componenents is similar to View but its different because provide scrollable area where user can scroll or view all data
+2.  It must be bounded by height which simplity means screen the scroll view container height in actual app

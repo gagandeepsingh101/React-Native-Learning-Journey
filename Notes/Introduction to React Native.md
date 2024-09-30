@@ -1,4 +1,4 @@
-### **Module 1: Introduction to React Native**
+### **Topic 1: Introduction to React Native**
 
 1. React Native is a open source javascript library based on react.
 2. It is used to build **cross platform native** app.
