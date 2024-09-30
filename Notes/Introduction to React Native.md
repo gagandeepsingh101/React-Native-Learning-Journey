@@ -6,5 +6,8 @@
 4.  React native is written javascript but it render or generate native code. It render to work with the devices processor.
 5.  React Native provide automated updated without waiting approval from play store.
 6.  React Native updated passess over air without any restriction or permission to provide updated app
-   
+7.  Different type of components:
 
+    1.  Core Components
+    2.  Community Components
+    3.  User Defined Components
